@@ -1,5 +1,11 @@
 import {html, PolymerElement} from '@polymer/polymer/polymer-element.js';
 
+import '@polymer/iron-icons/iron-icons.js';
+
+import '@polymer/paper-button/paper-button.js';
+import '@polymer/paper-input/paper-input.js';
+import '@polymer/paper-card/paper-card.js';
+
 /**
  * `mow-poll`
  * 
